@@ -1,0 +1,19 @@
+/* App styling starts here */
+
+.goal-list {
+    list-style: none;
+    margin: 2rem;
+    padding: 0;
+  }
+  
+  .goal-list li {
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px #3c3b3b;
+  }
+  
+  .course-goals h2 {
+    text-align: center;
+  }
